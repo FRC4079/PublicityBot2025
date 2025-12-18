@@ -1,8 +1,8 @@
 [versions]
-dokka = "2.0.0"
-spotless = "8.0.0"
+dokka = "2.1.0"
+spotless = "8.1.0"
 gradleRIO = "2025.3.2"
-junit = "6.0.0"
+junit = "6.0.1"
 malefix = "1.2.8"
 
 [libraries]
